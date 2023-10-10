@@ -80,3 +80,33 @@ Numerical Data: Facts!
         or height of a person. This could be progressive and changing 
     
 
+Aggregation and Granularity 
+---------------------------
+
+Granularity is the concept of adding sub-categories within main categories. This could be 
+done until the categories reach an atomic state where it could not be further categorized 
+
+Aggregation is the concept where data is grouped / averaged, counted etc to find a holistic 
+view of the data and how individual values deviate from a median value 
+
+Pre-attentive Processing 
+------------------------
+
+Our brain perceives information very quickly. While its natural for brain to process and conclude 
+on the things that we observe and perceive the time it takes to do this matters. 
+
+Initially our brain will immediately notice distinctive elements and start processing it. These 
+elements are known as Pre-Attentive Elements. 
+
+The rest of the elements will take time to observe and notice to perceive. These Pre-Attentive elements 
+in tableau includes 
+
+    - Length 
+    - Shape
+    - Color 
+    - Size 
+    - Position 
+
+All these elements 
+
+
