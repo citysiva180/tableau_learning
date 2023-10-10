@@ -1,0 +1,82 @@
+████████╗ █████╗ ██████╗ ██╗     ███████╗ █████╗ ██╗   ██╗    ███╗   ██╗ ██████╗ ████████╗███████╗███████╗
+╚══██╔══╝██╔══██╗██╔══██╗██║     ██╔════╝██╔══██╗██║   ██║    ████╗  ██║██╔═══██╗╚══██╔══╝██╔════╝██╔════╝
+   ██║   ███████║██████╔╝██║     █████╗  ███████║██║   ██║    ██╔██╗ ██║██║   ██║   ██║   █████╗  ███████╗
+   ██║   ██╔══██║██╔══██╗██║     ██╔══╝  ██╔══██║██║   ██║    ██║╚██╗██║██║   ██║   ██║   ██╔══╝  ╚════██║
+   ██║   ██║  ██║██████╔╝███████╗███████╗██║  ██║╚██████╔╝    ██║ ╚████║╚██████╔╝   ██║   ███████╗███████║
+   ╚═╝   ╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝     ╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚══════╝╚══════╝
+                                                                                                          
+##########################################################################################################
+
+-----------------------------
+Course Topics and Curriculum 
+-----------------------------
+
+- Introduction 
+- Visual Analytics 
+- Maps and Locations 
+- Color Vision and Deficiency 
+- Advanced Calculations 
+- Dashboards and Stories 
+- Advanced Dashboards 1
+- Advanced Dashboards 2
+- Miscellanous 
+
+---------------------
+Data Types in Tableau
+---------------------
+
+- Data comes in many forms and it has to be used properly. 
+
+- Data types in Tableau could be categorized to 2 types 
+
+    - Categorical Data | Dimensions 
+
+        Categorical data could be
+            - Nominal 
+            - Ordinal
+
+    - Numerical Data | Facts 
+
+        Numerical Data Could be 
+            - Discrete 
+            - Continuous
+
+Categorical data is a data that could be split into multiple categories. 
+
+Nominal Data :
+--------------  
+
+- The data could be grouped but their order does not play any significance. 
+    eg. gender 
+
+Ordinal : 
+---------
+
+- These data is similar to Nominal Data, but their order matters. These could be 
+hierarchical data 
+    eg. Level of Education, Course Rating , Salary Bands 
+
+
+- Categorical Data Does not lend itself well to quantitative analysis 
+- Level of Education and Eye Color do not have meaningful average to standard deviation value
+- Meanwhile an Ordinal Data brings insights based on order. A Two Star course cannot be said to be 
+exactly twice as good as one star course. 
+
+Numerical Data: Facts! 
+----------------------
+
+- You number data is the numerical data. This could be categorized to two category 
+        
+    - Discrete : Counted data is discrete 
+
+        - Data is taken as a whole count value 
+        - example goals in soccer, no half goal is counted. 
+        - Finite data is added here 
+    
+    - Continuous : measured data is Continuous
+
+        - Continuous data is indefinite and relative 
+        - They have the tendency to be half, say temperature 
+        or height of a person. This could be progressive and changing 
+    
+
