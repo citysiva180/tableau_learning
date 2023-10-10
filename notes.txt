@@ -107,6 +107,37 @@ in tableau includes
     - Size 
     - Position 
 
-All these elements 
+Length as Pre-attentive Processing 
+----------------------------------
+
+- Length is an effective pre-attentive property. With Length, its easy compare values 
+easily 
+- Length is an excellent property for Facts / Measures for its visualization 
+
+Using Length in Tableau 
+
+- You could use length as a measure and create bar graph. 
+while at this you could add hierarchy for your category. 
+
+To do this simply select all the fields you want to add as hierarchical 
+and then right click and select create hierarchy where you could create 
+hierarchy 
+
+Using this you could create 
+    - Category > Sub Category > Granular Category 
+
+Reference Lines 
+----------------
+Click on the analytics tab and you should be able to find 
+reference lines. 
+Click reference lines and select by Pane. 
+In the Line field, select Label as custom and then pass a string like this 
+
+    $ <Value> : <Computation> : <Field> # Remember to give them in Title case 
+
+Color as a Pre-Attentive Processing 
+-----------------------------------
+
+
 
 
